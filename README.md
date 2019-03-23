@@ -49,7 +49,7 @@ docker run --rm \
 node:11-alpine start
 ```
 
-5. Install project dependencies (include optional dependencies i.e.: @material-ui/core @material-ui/icons @material-ui/lab typescript):
+5. Install project dependencies (include optional dependencies i.e.: `@material-ui/core`, `@material-ui/icons`, `@material-ui/lab`, `typescript`):
 ```
 docker exec \
     --user node \
